@@ -1,29 +1,15 @@
-# README #
-## TO DO: 
-This README would normally document whatever steps are necessary to get your application up and running.
+# MakersMaker - Dashboard
 
-### What is this repository for? ###
+Dashboard for MakersMaker, a programming education platform.
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+# What we provide in the MakersMaker Dashboard
+  - Calendar to easily checkout your course schedules (such as quizzes, assignment deadlines, etc,.)
+  - Lectures list that you are attending now.
+  - Lectures informations such as lecture name, tutor name, progress, level, etc,.
 
-### How do I get set up? ###
+# What we will provide in the MakersMaker Dashboard
+ - Link of student's own social networks
+ - Lectures list that student already attended
+ - Wish list of lectures
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
 
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
