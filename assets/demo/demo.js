@@ -148,31 +148,31 @@ demo = {
 
       // color classes: [ event-blue | event-azure | event-green | event-orange | event-red ]
       events: [{
-          title: 'All Day Event',
+          title: 'Log-in Assignment Submit',
           start: new Date(y, m, 1),
           className: 'event-default'
         },
         {
-          title: 'Meeting',
+          title: 'Self-Driving Car Final Quiz',
           start: new Date(y, m, d - 1, 10, 30),
           allDay: false,
           className: 'event-green'
         },
         {
-          title: 'Lunch',
+          title: 'Sign in Assignment Submit',
           start: new Date(y, m, d + 7, 12, 0),
           end: new Date(y, m, d + 7, 14, 0),
           allDay: false,
           className: 'event-red'
         },
         {
-          title: 'Nud-pro Launch',
+          title: 'Tic-Tac-Toe Tutoring',
           start: new Date(y, m, d - 2, 12, 0),
           allDay: true,
           className: 'event-azure'
         },
         {
-          title: 'Birthday Party',
+          title: 'Shopping Mall Quiz',
           start: new Date(y, m, d + 1, 19, 0),
           end: new Date(y, m, d + 1, 22, 30),
           allDay: false,
